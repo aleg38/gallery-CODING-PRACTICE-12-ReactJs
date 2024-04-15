@@ -1,0 +1,30 @@
+/* Write your code here. */
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+}
+.image-style {
+  height: 55vh;
+  width: 85vw;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+.nature-head-line {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+  color: #1e293b;
+  text-align: start;
+}
+.nature-description {
+  font-weight: 400;
+  font-size: 15px;
+  color: #64748b;
+}
+.thumbnail-image-list-container {
+  display: flex;
+  flex-direction: row;
+}
